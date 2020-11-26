@@ -3,5 +3,5 @@ GETogether is a state-of-the-art dynamic web application that allows users to cr
 
 ## Launch App
 
-        [GETogether](https://.com)
+        [GETogether](https://project2gw.herokuapp.com/)
 
